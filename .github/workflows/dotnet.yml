@@ -1,0 +1,42 @@
+# Tên của workflow, sẽ hiển thị trên GitHub
+name: Build and Test .NET Project
+
+# Các sự kiện sẽ kích hoạt workflow này
+on:
+  # Chạy khi có push hoặc pull request vào nhánh main
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Cho phép bạn kích hoạt workflow này thủ công bằng GitHub CLI
+  workflow_dispatch:
+
+# Các công việc sẽ được thực thi
+jobs:
+  build-and-test:
+    # Chạy trên máy ảo Ubuntu mới nhất
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: Lấy mã nguồn của bạn về máy ảo
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    # Step 2: Cài đặt .NET SDK
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '8.0.x'
+
+    # Step 3: Phục hồi các gói NuGet phụ thuộc
+    - name: Restore dependencies
+      run: dotnet restore
+
+    # Step 4: Build toàn bộ solution
+    - name: Build
+      run: dotnet build --no-restore
+
+    # Step 5: Chạy các project test
+    - name: Test
+      run: dotnet test --no-build --verbosity normal
