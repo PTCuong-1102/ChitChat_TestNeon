@@ -1,0 +1,15 @@
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/bin/Debug/net8.0/ChitChatApp.Share.deps.json
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/bin/Debug/net8.0/ChitChatApp.Share.dll
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/bin/Debug/net8.0/ChitChatApp.Share.pdb
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/bin/Debug/net8.0/ChitChatApp.Core.dll
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/bin/Debug/net8.0/ChitChatApp.Core.pdb
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/obj/Debug/net8.0/ChitChatApp.Share.csproj.AssemblyReference.cache
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/obj/Debug/net8.0/ChitChatApp.Share.GeneratedMSBuildEditorConfig.editorconfig
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/obj/Debug/net8.0/ChitChatApp.Share.AssemblyInfoInputs.cache
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/obj/Debug/net8.0/ChitChatApp.Share.AssemblyInfo.cs
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/obj/Debug/net8.0/ChitChatApp.Share.csproj.CoreCompileInputs.cache
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/obj/Debug/net8.0/ChitChatApp.Share.csproj.CopyComplete
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/obj/Debug/net8.0/ChitChatApp.Share.dll
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/obj/Debug/net8.0/refint/ChitChatApp.Share.dll
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/obj/Debug/net8.0/ChitChatApp.Share.pdb
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/obj/Debug/net8.0/ref/ChitChatApp.Share.dll

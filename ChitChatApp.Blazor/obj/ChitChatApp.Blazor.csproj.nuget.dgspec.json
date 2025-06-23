@@ -1,0 +1,229 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Blazor/ChitChatApp.Blazor.csproj": {}
+  },
+  "projects": {
+    "/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Blazor/ChitChatApp.Blazor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Blazor/ChitChatApp.Blazor.csproj",
+        "projectName": "ChitChatApp.Blazor",
+        "projectPath": "/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Blazor/ChitChatApp.Blazor.csproj",
+        "packagesPath": "/home/ptcuong/.nuget/packages/",
+        "outputPath": "/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Blazor/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ptcuong/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/ChitChatApp.Share.csproj": {
+                "projectPath": "/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/ChitChatApp.Share.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.17, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.Sdk.WebAssembly.Pack": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.17, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[8.0.17, 8.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/ChitChatApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/ChitChatApp.Core.csproj",
+        "projectName": "ChitChatApp.Core",
+        "projectPath": "/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/ChitChatApp.Core.csproj",
+        "packagesPath": "/home/ptcuong/.nuget/packages/",
+        "outputPath": "/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ptcuong/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/ChitChatApp.Share.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/ChitChatApp.Share.csproj",
+        "projectName": "ChitChatApp.Share",
+        "projectPath": "/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/ChitChatApp.Share.csproj",
+        "packagesPath": "/home/ptcuong/.nuget/packages/",
+        "outputPath": "/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Share/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ptcuong/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/ChitChatApp.Core.csproj": {
+                "projectPath": "/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/ChitChatApp.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+E:\Project\ChitChatWebApp\ChitChatApp.Core\bin\Debug\net9.0\ChitChatApp.Core.deps.json
+E:\Project\ChitChatWebApp\ChitChatApp.Core\bin\Debug\net9.0\ChitChatApp.Core.dll
+E:\Project\ChitChatWebApp\ChitChatApp.Core\bin\Debug\net9.0\ChitChatApp.Core.pdb
+E:\Project\ChitChatWebApp\ChitChatApp.Core\obj\Debug\net9.0\ChitChatApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\ChitChatWebApp\ChitChatApp.Core\obj\Debug\net9.0\ChitChatApp.Core.AssemblyInfoInputs.cache
+E:\Project\ChitChatWebApp\ChitChatApp.Core\obj\Debug\net9.0\ChitChatApp.Core.AssemblyInfo.cs
+E:\Project\ChitChatWebApp\ChitChatApp.Core\obj\Debug\net9.0\ChitChatApp.Core.csproj.CoreCompileInputs.cache
+E:\Project\ChitChatWebApp\ChitChatApp.Core\obj\Debug\net9.0\ChitChatApp.Core.dll
+E:\Project\ChitChatWebApp\ChitChatApp.Core\obj\Debug\net9.0\refint\ChitChatApp.Core.dll
+E:\Project\ChitChatWebApp\ChitChatApp.Core\obj\Debug\net9.0\ChitChatApp.Core.pdb
+E:\Project\ChitChatWebApp\ChitChatApp.Core\obj\Debug\net9.0\ref\ChitChatApp.Core.dll

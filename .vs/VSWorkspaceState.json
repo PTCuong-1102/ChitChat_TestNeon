@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ChitChatApp.Api",
+    "\\ChitChatApp.Api\\Configuration",
+    "\\ChitChatApp.Api\\Controllers",
+    "\\ChitChatApp.Api\\Models",
+    "\\ChitChatApp.Api\\Models\\DTOs",
+    "\\ChitChatApp.Core",
+    "\\ChitChatApp.Core\\Domain\\Entities",
+    "\\ChitChatApp.Core\\Infrastructure\\Persistence"
+  ],
+  "SelectedNode": "\\ChitChatApp.Api\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

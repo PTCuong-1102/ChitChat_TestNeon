@@ -1,0 +1,14 @@
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/obj/Debug/net8.0/ChitChatApp.Core.csproj.AssemblyReference.cache
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/obj/Debug/net8.0/ChitChatApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/obj/Debug/net8.0/ChitChatApp.Core.AssemblyInfoInputs.cache
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/obj/Debug/net8.0/ChitChatApp.Core.AssemblyInfo.cs
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/obj/Debug/net8.0/ChitChatApp.Core.csproj.CoreCompileInputs.cache
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/bin/Debug/net8.0/ChitChatApp.Core.deps.json
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/bin/Debug/net8.0/ChitChatApp.Core.runtimeconfig.json
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/bin/Debug/net8.0/ChitChatApp.Core.dll
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/bin/Debug/net8.0/ChitChatApp.Core.pdb
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/obj/Debug/net8.0/ChitChatApp.Core.dll
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/obj/Debug/net8.0/refint/ChitChatApp.Core.dll
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/obj/Debug/net8.0/ChitChatApp.Core.pdb
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/obj/Debug/net8.0/ChitChatApp.Core.genruntimeconfig.cache
+/media/ptcuong/DATA/Project/ChitChatWebApp/ChitChatApp.Core/obj/Debug/net8.0/ref/ChitChatApp.Core.dll

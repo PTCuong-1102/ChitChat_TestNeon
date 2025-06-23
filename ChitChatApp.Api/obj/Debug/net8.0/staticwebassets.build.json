@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WXebFfGtBbAhFaLZMa/bgTrp9N13pPpsaVmLiumg8rE=",
+  "Source": "ChitChatApp.Api",
+  "BasePath": "_content/ChitChatApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
