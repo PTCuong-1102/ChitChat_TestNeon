@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChitChatApp.AvaloniaUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+894612598bf624949fe0bf3a2b0a10c7960e101e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChitChatApp.AvaloniaUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChitChatApp.AvaloniaUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
